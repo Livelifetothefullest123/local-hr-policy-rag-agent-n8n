@@ -1,5 +1,5 @@
 # local-hr-policy-rag-agent-n8n
-# Local HR & Global Mobility Policy RAG Agent (n8n + Ollama)
+# Local HR & Global Mobility Policy RAG Agent (n8n + Ollama) 
 
 ![Architecture and Chat Output](architecture.png)
 
